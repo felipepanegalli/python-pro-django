@@ -2,7 +2,7 @@
 
 ### Código desenvolvido no módulo de Django do Site Python Pro
 
-Aplicação disponível em https://pythonprodjango-panegalli.herokuapp.com/
+Aplicação disponível em https://panegalli-pythonpro-django.herokuapp.com/
 
 ### Integrações
 
